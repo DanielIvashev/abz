@@ -1,0 +1,58 @@
+$primaryColor: rgb(239, 91, 76);
+$secondaryColor: rgb(0, 123, 255);
+
+.wrapper {
+  display: flex;
+  background: url("../../img/banner-photo.jpg");
+  background-position: center;
+  background-size: cover;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  flex-direction: column;
+  justify-content: center;
+  padding: 6rem 4rem 6rem 4rem;
+
+  h1 {
+    font-size: 3rem;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+  }
+
+  p {
+    margin-bottom: 30px;
+  }
+
+  .button {
+    margin: 0;
+
+    button {
+      height: 40px;
+      border-radius: 5px;
+      outline: none;
+      box-shadow: none;
+      border: none;
+      color: white;
+      background: $primaryColor;
+      width: 12.5rem;
+    }
+  }
+
+  @media (max-width: 768px) {
+    h1, p {
+      text-align: center;
+    }
+  }
+
+  @media (max-width: 360px) {
+    h1 {
+      font-size: 2.1rem;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .wrapper {
+    padding: 4rem 2rem 4rem 2rem;
+  }
+}
+
