@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/abz/static/css/main.2e670770.chunk.css",
+    "main.js": "/abz/static/js/main.8bc1ad31.chunk.js",
+    "main.js.map": "/abz/static/js/main.8bc1ad31.chunk.js.map",
+    "runtime-main.js": "/abz/static/js/runtime-main.da0ef376.js",
+    "runtime-main.js.map": "/abz/static/js/runtime-main.da0ef376.js.map",
+    "static/css/2.de424728.chunk.css": "/abz/static/css/2.de424728.chunk.css",
+    "static/js/2.21085e7a.chunk.js": "/abz/static/js/2.21085e7a.chunk.js",
+    "static/js/2.21085e7a.chunk.js.map": "/abz/static/js/2.21085e7a.chunk.js.map",
+    "index.html": "/abz/index.html",
+    "precache-manifest.9ff1b09b2274daed996687007d558700.js": "/abz/precache-manifest.9ff1b09b2274daed996687007d558700.js",
+    "service-worker.js": "/abz/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/abz/static/css/2.de424728.chunk.css.map",
+    "static/css/main.2e670770.chunk.css.map": "/abz/static/css/main.2e670770.chunk.css.map",
+    "static/js/2.21085e7a.chunk.js.LICENSE.txt": "/abz/static/js/2.21085e7a.chunk.js.LICENSE.txt",
+    "static/media/firstBlock.module.scss": "/abz/static/media/banner-photo.f5443d74.jpg",
+    "static/media/logo.svg": "/abz/static/media/logo.146e2926.svg",
+    "static/media/man-laptop.svg": "/abz/static/media/man-laptop.3cdf7897.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da0ef376.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.21085e7a.chunk.js",
+    "static/css/main.2e670770.chunk.css",
+    "static/js/main.8bc1ad31.chunk.js"
+  ]
+}
